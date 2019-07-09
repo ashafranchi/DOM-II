@@ -405,6 +405,31 @@ img {
     color: #17A2B8;
 }
 
-.destchange {
+.destChange {
     font-size: 4em;
+}
+
+.introChange {
+    background-color: cornflowerblue;
+}
+
+.advChange {
+    display: flex;
+    width: 50%;
+}
+
+.navChange {
+    background-color: plum;
+}
+
+.navChange2 {
+    background-color: whitesmoke;
+}
+
+.footerChange {
+    background-color: forestgreen;
+}
+
+.contentChange {
+    color: gold;
 }
